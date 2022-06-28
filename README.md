@@ -25,7 +25,7 @@ Un programa cliente de git en los entornos Cygwin, WSL o Git Bash.
 Un repositorio en https://github.com/pontedatos/nombre-de-tu-cuenta-de-github. Si no eres todavía parte del equipo de "Ponte Datos" solicita serlo antes de empezar el examen o el día del examen antes de empezar.
 Una vez terminado el examen se sube a tu repositorio público y se crea una issue en el repositorio github.com/pontedatos/uc3m-periodismo-datos poniendo el enlace a la URL de tu repositorio; también se debe poner por aquí.
 
-## 1 Parte teórica
+## 1 Parte teórica: https://github.com/Pontedatos/DiegoDominguezGonzalez-extra/blob/main/parte-teorica.md
 ═══════════════
 
 Tenéis que crear con nano un archivo denominado parte-teorica.md con dos secciones donde pongáis estas preguntas. Se ha de emplear sintaxis Markdown en todo el documento.
@@ -51,7 +51,7 @@ Este archivo lo utilizaréis luego en la parte práctica.
 ──────────────
 Cuando hablamos de periodismo o visualización de datos, ¿a qué datos nos referimos? Razona la respuesta.
 
-## 2 Parte práctica
+## 2 Parte práctica: https://github.com/Pontedatos/DiegoDominguezGonzalez-extra/blob/main/parte-practica.md
 ════════════════
 
 1. Crea un repositorio en github.com/pontedatos con el nombre
